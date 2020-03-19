@@ -11,12 +11,12 @@
 Граф хранится в виде списка ребер.
 
 ### Визуализация в neo4j:
-![GitHub Logo](1.jpg)
+![GitHub Logo](1g.jpg)
 
-![GitHub Logo](2.jpg)
+![GitHub Logo](2g.jpg)
 
-![GitHub Logo](3.jpg)
+![GitHub Logo](3g.jpg)
 
 ### Часть списка ребер в neo4j:
 
-![GitHub Logo](4.jpg)
+![GitHub Logo](4g.jpg)
