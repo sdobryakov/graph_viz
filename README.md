@@ -11,10 +11,7 @@
 Для сбора данных был использован VK API и язык программирования Python. Для хранения и визуализации графа использовался neo4j.
 
 ![GitHub Logo](1.jpg)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](2.jpg)
-Format: ![Alt Text](url)
 
 ![GitHub Logo](3.jpg)
-Format: ![Alt Text](url)
